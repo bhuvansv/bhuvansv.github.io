@@ -70,7 +70,7 @@ a:hover	{
 
 #content-left a:link, #content-left a:visited	{
 	text-decoration: underline;
-	color:#7cf8f8
+	color:#FFF
 }
 
 #content-left a:hover	{
@@ -79,7 +79,7 @@ a:hover	{
 
 #post-short a:link, #post-short a:visited	{
 	text-decoration: none;
-	color:#7cf8f8;
+	color:#FFF;
 }
 
 #post-short a:hover	{
